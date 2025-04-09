@@ -92,16 +92,23 @@ We also added a tooltip to the average quantity sold column. This way, you can e
 ![image](https://github.com/user-attachments/assets/89058bf2-5083-4fc9-845f-800086ecd31d)
 
 ### Top Products Controller
-On the top right corner of each bar chart, theres a controller to see the number of wished products, filtered on the top of either the margin percent or the net profit
-Margin percent (%)
+Each bar chart features a control in the top right corner that displays the number of 'wished' products, filtered to show only the top items.
 ![image](https://github.com/user-attachments/assets/899976d0-d5f3-4bb5-b0b2-4c8fba1ce9ae)
 
-Net profit ($)
 ![image](https://github.com/user-attachments/assets/566800e3-0f8c-466f-985f-9bbb15ef44eb)
 
 
 ## Key Findings
-Even there are products with larger profits like this:
-![image](https://github.com/user-attachments/assets/928c14ce-0f9c-4109-8872-2bd98d6642d9)
+Despite some products having numerous sales, as illustrated in the first row,
+![image](https://github.com/user-attachments/assets/2874a44d-847c-42e6-927a-81a4c343305c)
 
-The business might grow if it focuses on the top selling margin profit to 
+it's important to consider that selling even a single unit of a high-value product, as shown in the subsequent image, can yield a more significant benefit to the company.
+![image](https://github.com/user-attachments/assets/4d41b92c-4b53-42db-8fe0-fdb14e2b4a72)
+
+### Top profit products
+![image](https://github.com/user-attachments/assets/ba2fc69f-e375-4e52-97b8-cf14f0be76a1)
+
+
+### Unprofitable Products
+We've identified over 80 unprofitable products that the store should seriously consider discontinuing after a closer look.
+![image](https://github.com/user-attachments/assets/4684d3f1-2398-4819-b4be-ea59d2014815)
