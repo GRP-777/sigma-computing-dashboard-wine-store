@@ -1,8 +1,8 @@
 # Sigma Computing Dashboard
 
-Sigma Computing is a modern business intelligence tool built for the cloud, like Amazon Redshift. What's cool is that it lets you look at your raw data directly, without the usual hassle of old-school BI. It's got a live, interactive setup that feels a lot like a spreadsheet, so more people on the team can dive in and understand the numbers without needing to be tech wizards.
+Link to the Sigma dashboard: https://app.sigmacomputing.com/base-labs/workbook/sigma_practical_case_wine_store-3oUwcjF5jHN9xD7Pg8Jmoe/edit?:nodeId=-AWdonS-jk 
+Sigma Computing is a modern, cloud-based BI tool (like Amazon Redshift) enabling direct, real-time analysis of raw data via a familiar spreadsheet interface. Its key strengths include speed, ease of use, scalability, robust governance, and improved collaboration between technical and business users.
 
-What makes Sigma stand out is how fast it is, how quickly people can learn to use it, how well it handles lots of data, and how it helps keep everything organized and secure. It's also great for getting the data experts and the business folks on the same page.
 ![image](https://github.com/user-attachments/assets/d33e240c-efe6-4cd6-8bc6-a8785f30cb8e)
 
 ## Case: Wine Retail Analytics 🍷
