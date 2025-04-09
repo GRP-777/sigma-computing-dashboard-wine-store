@@ -45,6 +45,8 @@ The datasets are located in https://www.pwc.com/us/en/careers/university-relatio
 
 
 ## Exploratory Data Analysis 📈
+Feel free to check the actual Jupyter Notebook in this repo: https://github.com/GRP-777/sigma-computing-dashboard-wine-store/blob/master/sigma_computing_annies_data_cleaning.ipynb
+
 We first tried to load the datasets into Sigma Computing, but the free version's 200MB limit prevented this. So, as a next step, we used Pandas to get a general overview of all the data. This helped us locate the key information we needed, like product IDs, date and time details, purchase and selling prices, and the links (primary and foreign keys) to connect different tables.
   
   import pandas as pd
