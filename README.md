@@ -14,12 +14,12 @@ Our main goal here is to provide this distributor with actionable information ab
 
 ## Content
 1. Introduction (inputs, KPIs) 
-3. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA) 📈
 4. Extract, transform and load (ETL)
 5. Sigma Computing Visualizations
-6. Key Findings
+6. Key Findings 🍾
 
-## Introduction
+## Introduction 
 ### KPIs
 1. Efficiently ingest the relevant csv files into a suitable database.
 2. Transform the data to calculate profits ($) and margins (%).
@@ -40,11 +40,11 @@ Our main goal here is to provide this distributor with actionable information ab
 The datasets are located in https://www.pwc.com/us/en/careers/university-relations/data-and-analytics-case-studies-files.html.
 
 
-## Potential schema outline
+### Potential schema outline
 ![Screenshot 2025-04-08 202006](https://github.com/user-attachments/assets/688b7973-84dd-4a1c-82e0-19d5a62a0699)
 
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis 📈
 We first tried to load the datasets into Sigma Computing, but the free version's 200MB limit prevented this. So, as a next step, we used Pandas to get a general overview of all the data. This helped us locate the key information we needed, like product IDs, date and time details, purchase and selling prices, and the links (primary and foreign keys) to connect different tables.
   
   import pandas as pd
@@ -100,7 +100,7 @@ Each bar chart features a control in the top right corner that displays the numb
 ![image](https://github.com/user-attachments/assets/566800e3-0f8c-466f-985f-9bbb15ef44eb)
 
 
-## Key Findings
+## Key Findings 🍾
 Despite some products having numerous sales, as illustrated in the first row,
 ![image](https://github.com/user-attachments/assets/2874a44d-847c-42e6-927a-81a4c343305c)
 
