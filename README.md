@@ -38,7 +38,7 @@ Our main goal here is to provide this distributor with actionable information ab
 The datasets are located in https://www.pwc.com/us/en/careers/university-relations/data-and-analytics-case-studies-files.html.
 
 
-Potential schema outline
+## Potential schema outline
 ![Screenshot 2025-04-08 202006](https://github.com/user-attachments/assets/688b7973-84dd-4a1c-82e0-19d5a62a0699)
 
 
