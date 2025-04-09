@@ -1,8 +1,10 @@
 # Sigma Computing Dashboard
 
-Link to the Sigma dashboard: https://app.sigmacomputing.com/base-labs/workbook/sigma_practical_case_wine_store-3oUwcjF5jHN9xD7Pg8Jmoe/edit?:nodeId=-AWdonS-jk 
-Sigma Computing is a modern, cloud-based BI tool (like Amazon Redshift) enabling direct, real-time analysis of raw data via a familiar spreadsheet interface. Its key strengths include speed, ease of use, scalability, robust governance, and improved collaboration between technical and business users.
+Sigma Computing is a modern, cloud-based BI tool (like Amazon Redshift) enabling direct, real-time analysis of raw data via a familiar spreadsheet interface.
 
+Its key strengths include speed, ease of use, scalability, robust governance, and improved collaboration between technical and business users.
+
+- Link to the Sigma dashboard: https://app.sigmacomputing.com/base-labs/workbook/sigma_practical_case_wine_store-3oUwcjF5jHN9xD7Pg8Jmoe/edit?:nodeId=-AWdonS-jk 
 ![image](https://github.com/user-attachments/assets/d33e240c-efe6-4cd6-8bc6-a8785f30cb8e)
 
 ## Case: Wine Retail Analytics 🍷
