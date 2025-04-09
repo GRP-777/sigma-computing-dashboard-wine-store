@@ -104,7 +104,7 @@ Each bar chart features a control in the top right corner that displays the numb
 Despite some products having numerous sales, as illustrated in the first row,
 ![image](https://github.com/user-attachments/assets/2874a44d-847c-42e6-927a-81a4c343305c)
 
-it's important to consider that selling even a single unit of a high-value product, as shown in the subsequent image, can yield a more significant benefit to the company.
+it's important to consider that selling even a single unit of a high-value product, as shown in the subsequent image, can yield a more significant benefit to the company as shown below.
 ![image](https://github.com/user-attachments/assets/4d41b92c-4b53-42db-8fe0-fdb14e2b4a72)
 
 ### Top profit products
